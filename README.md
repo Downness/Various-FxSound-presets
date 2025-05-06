@@ -8,4 +8,7 @@ Just import presets into the equalizer and enjoy!
 
 >  "Necessary Und Code (Radollaxant work - Quizal, etc.)" preset is an idea to get a knowledge for only what you need at a particular time from Underworld codes that intuitively come to your mind... Preset also supports all types of work as are Quizal, Fywral, and etc...
 
+----------------------------
+>  P.S: Don't forget "Beings protection" preset...
+
 Best wishes
