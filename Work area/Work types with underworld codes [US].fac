@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Work types with underworld codes [US]
 0: Double Params Flag
 1: Total number of elements
-64: Main 0
+38: Main 0
 64: Main 1
 0: Main 2
 0: Main 3
 64: Main 4
-64: Main 5
+0: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Work types with underworld codes [US]
 1: On/Off Flag
 Band 1
    62.5: CF
-   5.03937: Boost/Cut
+   0: Boost/Cut
 Band 2
    86: CF
-   9: Boost/Cut
+   7: Boost/Cut
 Band 3
    158: CF
-   4: Boost/Cut
+   2: Boost/Cut
 Band 4
-   293: CF
-   9: Boost/Cut
+   540: CF
+   7: Boost/Cut
 Band 5
    541: CF
-   4: Boost/Cut
+   2: Boost/Cut
 Band 6
    1010: CF
-   9: Boost/Cut
+   7: Boost/Cut
 Band 7
-   1862: CF
-   4: Boost/Cut
+   3429: CF
+   2: Boost/Cut
 Band 8
-   3439: CF
-   -6: Boost/Cut
+   6350: CF
+   -3: Boost/Cut
 Band 9
    6360: CF
-   6: Boost/Cut
+   4: Boost/Cut
 Band 10
    11768: CF
-   6: Boost/Cut
+   4: Boost/Cut

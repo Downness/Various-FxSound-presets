@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Work [US]
+Work (aggrupullant) [US]
 0: Double Params Flag
 1: Total number of elements
 38: Main 0
-51: Main 1
+64: Main 1
 0: Main 2
-51: Main 3
-51: Main 4
+114: Main 3
+76: Main 4
 0: Main 5
 0: Element Number
    0: Param 0
