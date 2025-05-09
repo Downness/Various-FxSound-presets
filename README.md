@@ -14,6 +14,8 @@ Various presets include:
 * Work area
 	> divided work asociations for different work motivations (work environments) - from almost leisure, to hardest ones; about work on holidays
 
+> Download link:
+https://github.com/Downness/FxSound-presets/archive/refs/tags/FxSound_presets.zip
 
 Various presets include:
 
