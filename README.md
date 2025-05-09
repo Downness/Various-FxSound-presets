@@ -4,7 +4,7 @@ Various presets include:
 * Alien (beings) presets
 	> we can find associations on their lives, different beings
 * American
-	> serious ones, but also ones that give association on American jokes, also about their superheroes
+	> serious ones, as the ones that give association on American jokes, also about their superheroes
 * Meaningful presets
 	> about different life ideas, happiness, about leisure, life, learning, love, being saint, truth
 * Sound Quality Presets
