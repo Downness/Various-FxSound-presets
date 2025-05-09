@@ -1,18 +1,18 @@
 Various presets for the FxSound equalizer have a point to set people free or enable them hard working with a combination natural - cosmos models of living, but there you can find and those for fun... Just import presets into the equalizer and enjoy!
 
 Various presets include:
-* alien or beings presets
-	> we can find asociations on their lives, different beings
+* Alien (beings) presets
+	> we can find associations on their lives, different beings
 * American
-	> serious ones as the ones that give asociation on American jokes, also about their superheroes
-* presets with meanings
+	> serious ones, but also ones that give association on American jokes, also about their superheroes
+* Meaningful presets
 	> about different life ideas, happiness, about leisure, life, learning, love, being saint, truth
-* sound quality presets
-	> Bass, Blues, Music
-* presets with life help as are underworld codes
-	> knowledge asociation
+* Sound Quality Presets
+	> Bass, Blues, Music, other sound presets
+* Presets with life help as are underworld codes
+	> knowledge association
 * Work area
-	> divided work asociations for different work motivations (work environments) - from almost leisure, to hardest ones; about work on holidays
+	> divided work associations for different work motivations (work environments) - from almost leisure, to hardest ones; about work on holidays
 
 > Download link:
 https://github.com/Downness/FxSound-presets/archive/refs/tags/FxSound_presets.zip
