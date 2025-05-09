@@ -44,8 +44,6 @@ Love for beings - assfedazzya.fac
 Smart - Great IQ.fac                                               
 Work for beings (Ranzellariya).fac                                 
 
-//////////////////////////////////////////////
-
 > American
 
 American jokes (work divided).fac                                  
@@ -61,8 +59,6 @@ Superheroes everywhere.fac
 Superheroes of US.fac                                              
 Superman.fac                                                       
 US citizen.fac                                                     
-
-/////////////////////////////////////////////
 
 > Meaningful
 
@@ -137,8 +133,6 @@ Understanding way (Extrapoletia).fac
 Underworld Life (Quizal).fac                                       
 Yelle [US].fac                                                     
 
-//////////////////////////////////////////////
-
 > Sound
 
 Bass & beat (QLXZ).fac                                             
@@ -162,8 +156,6 @@ Sound RXZ.fac
 Sound YRXZ.fac                                                     
 Supreme life (YRXZ).fac                                            
 
-//////////////////////////////////////////////
-
 > Underworld codes
 
 Ban.fac                                                            
@@ -181,8 +173,6 @@ Underworld codes (Yanzzdragara).fac
 Underworld Life (Quizal).fac                                       
 Underworld name.fac                                                
 Underworld.fac                                                     
-
-//////////////////////////////////////////////
 
 > Work area
 
