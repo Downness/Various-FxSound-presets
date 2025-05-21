@@ -4,10 +4,10 @@ Work (Fywral)
 0: Double Params Flag
 1: Total number of elements
 0: Main 0
-0: Main 1
+64: Main 1
 0: Main 2
-64: Main 3
-64: Main 4
+0: Main 3
+127: Main 4
 64: Main 5
 0: Element Number
    0: Param 0
@@ -33,29 +33,29 @@ Band 1
    62.5: CF
    5.03937: Boost/Cut
 Band 2
-   120.08: CF
-   6: Boost/Cut
+   157: CF
+   4: Boost/Cut
 Band 3
-   225: CF
-   6: Boost/Cut
+   292: CF
+   7: Boost/Cut
 Band 4
-   406.62: CF
-   -3: Boost/Cut
+   540: CF
+   9: Boost/Cut
 Band 5
-   894.43: CF
-   0: Boost/Cut
+   1000: CF
+   -1: Boost/Cut
 Band 6
-   1422.58: CF
-   -3: Boost/Cut
+   1852: CF
+   0: Boost/Cut
 Band 7
-   2614.16: CF
+   3429: CF
    -3: Boost/Cut
 Band 8
-   4865.39: CF
-   6: Boost/Cut
+   6350: CF
+   -5: Boost/Cut
 Band 9
-   8951.04: CF
-   6: Boost/Cut
+   11758: CF
+   -9: Boost/Cut
 Band 10
-   13926.3: CF
-   -3: Boost/Cut
+   16000: CF
+   12: Boost/Cut

@@ -3,11 +3,11 @@ CLASS1 : Effect Type
 Sound NFRT
 0: Double Params Flag
 1: Total number of elements
-127: Main 0
+0: Main 0
 0: Main 1
 0: Main 2
 0: Main 3
-127: Main 4
+64: Main 4
 0: Main 5
 0: Element Number
    0: Param 0
@@ -33,16 +33,16 @@ Band 1
    62.5: CF
    0: Boost/Cut
 Band 2
-   86: CF
+   157: CF
    9: Boost/Cut
 Band 3
-   158: CF
+   292: CF
    9: Boost/Cut
 Band 4
-   293: CF
+   540: CF
    9: Boost/Cut
 Band 5
-   830.17: CF
+   1000: CF
    3: Boost/Cut
 Band 6
    1852: CF
@@ -57,5 +57,5 @@ Band 9
    11758: CF
    -2: Boost/Cut
 Band 10
-   13460.8: CF
+   16000: CF
    0: Boost/Cut

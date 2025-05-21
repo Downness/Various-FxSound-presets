@@ -3,11 +3,11 @@ CLASS1 : Effect Type
 Sound RXZ
 0: Double Params Flag
 1: Total number of elements
-51: Main 0
-0: Main 1
+0: Main 0
+64: Main 1
 0: Main 2
-51: Main 3
-0: Main 4
+0: Main 3
+127: Main 4
 0: Main 5
 0: Element Number
    0: Param 0
@@ -39,23 +39,23 @@ Band 3
    292: CF
    6: Boost/Cut
 Band 4
-   293: CF
+   540: CF
    3: Boost/Cut
 Band 5
-   541: CF
+   1000: CF
    0: Boost/Cut
 Band 6
-   1414.16: CF
+   1852: CF
    -3: Boost/Cut
 Band 7
-   2645.5: CF
+   3429: CF
    -3: Boost/Cut
 Band 8
-   4021.2: CF
+   6350: CF
    -6: Boost/Cut
 Band 9
-   7493.58: CF
+   11758: CF
    -6: Boost/Cut
 Band 10
-   12699: CF
+   16000: CF
    -6: Boost/Cut

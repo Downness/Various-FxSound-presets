@@ -3,10 +3,10 @@ CLASS1 : Effect Type
 Leisure (Yozengia)
 0: Double Params Flag
 1: Total number of elements
-64: Main 0
-64: Main 1
+89: Main 0
+38: Main 1
 0: Main 2
-64: Main 3
+114: Main 3
 64: Main 4
 64: Main 5
 0: Element Number

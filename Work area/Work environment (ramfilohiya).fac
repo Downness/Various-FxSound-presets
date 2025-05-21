@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Work environment (ramfilohiya)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
+0: Main 0
 0: Main 1
 0: Main 2
 0: Main 3
-0: Main 4
-0: Main 5
+127: Main 4
+64: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Work environment (ramfilohiya)
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   5.03937: Boost/Cut
 Band 2
-   86: CF
+   139.96: CF
    9: Boost/Cut
 Band 3
-   292: CF
+   186.14: CF
    -6: Boost/Cut
 Band 4
-   293: CF
+   418.97: CF
    9: Boost/Cut
 Band 5
-   1000: CF
+   619.03: CF
    -6: Boost/Cut
 Band 6
-   1010: CF
+   1422.58: CF
    9: Boost/Cut
 Band 7
-   3429: CF
+   2222.41: CF
    -6: Boost/Cut
 Band 8
-   6350: CF
+   4021.2: CF
    -6: Boost/Cut
 Band 9
-   11758: CF
+   7439.6: CF
    -6: Boost/Cut
 Band 10
-   11768: CF
+   16000: CF
    9: Boost/Cut

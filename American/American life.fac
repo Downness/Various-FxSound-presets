@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-American life
+American Life
 0: Double Params Flag
 1: Total number of elements
-25: Main 0
-38: Main 1
+38: Main 0
+0: Main 1
 0: Main 2
-0: Main 3
-0: Main 4
-64: Main 5
+127: Main 3
+51: Main 4
+51: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ American life
 1: On/Off Flag
 Band 1
    62.5: CF
-   5.03937: Boost/Cut
+   4.01575: Boost/Cut
 Band 2
    157: CF
    4: Boost/Cut
@@ -43,7 +43,7 @@ Band 4
    -6: Boost/Cut
 Band 5
    1000: CF
-   9: Boost/Cut
+   12: Boost/Cut
 Band 6
    1212.08: CF
    -6: Boost/Cut

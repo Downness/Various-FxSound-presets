@@ -3,10 +3,10 @@ CLASS1 : Effect Type
 Bass (Quizal)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+13: Main 0
+13: Main 1
 0: Main 2
-0: Main 3
+13: Main 3
 0: Main 4
 127: Main 5
 0: Element Number
