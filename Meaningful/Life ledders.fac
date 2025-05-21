@@ -3,10 +3,10 @@ CLASS1 : Effect Type
 Life ledders
 0: Double Params Flag
 1: Total number of elements
-64: Main 0
+38: Main 0
 64: Main 1
 0: Main 2
-64: Main 3
+0: Main 3
 64: Main 4
 64: Main 5
 0: Element Number
@@ -36,26 +36,26 @@ Band 2
    157: CF
    9: Boost/Cut
 Band 3
-   158: CF
+   292: CF
    3: Boost/Cut
 Band 4
-   339.93: CF
+   540: CF
    -3: Boost/Cut
 Band 5
-   912.79: CF
+   1000: CF
    3: Boost/Cut
 Band 6
    1852: CF
    9: Boost/Cut
 Band 7
-   2206.74: CF
+   3413.33: CF
    0: Boost/Cut
 Band 8
    6350: CF
    -3: Boost/Cut
 Band 9
-   9059: CF
+   11758: CF
    -6: Boost/Cut
 Band 10
-   12529.8: CF
+   16000: CF
    -9: Boost/Cut

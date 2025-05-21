@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Happiness (Fibrald)
 0: Double Params Flag
 1: Total number of elements
-89: Main 0
+13: Main 0
 38: Main 1
 0: Main 2
-64: Main 3
-76: Main 4
-38: Main 5
+0: Main 3
+25: Main 4
+0: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Happiness (Fibrald)
 1: On/Off Flag
 Band 1
    62.5: CF
-   2.99213: Boost/Cut
+   0: Boost/Cut
 Band 2
    119.37: CF
    12: Boost/Cut

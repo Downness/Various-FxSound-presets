@@ -4,11 +4,11 @@ Sound QLXZ
 0: Double Params Flag
 1: Total number of elements
 0: Main 0
-0: Main 1
+64: Main 1
 0: Main 2
 0: Main 3
 127: Main 4
-127: Main 5
+0: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Sound QLXZ
 1: On/Off Flag
 Band 1
    62.5: CF
-   10: Boost/Cut
+   0: Boost/Cut
 Band 2
    157: CF
    8: Boost/Cut
@@ -42,20 +42,20 @@ Band 4
    540: CF
    8: Boost/Cut
 Band 5
-   765.91: CF
+   1000: CF
    0: Boost/Cut
 Band 6
-   1010: CF
+   1852: CF
    -12: Boost/Cut
 Band 7
-   2645.5: CF
+   3429: CF
    0: Boost/Cut
 Band 8
-   3439: CF
+   6350: CF
    -9: Boost/Cut
 Band 9
-   6360: CF
+   11758: CF
    -9: Boost/Cut
 Band 10
-   11768: CF
+   16000: CF
    -9: Boost/Cut

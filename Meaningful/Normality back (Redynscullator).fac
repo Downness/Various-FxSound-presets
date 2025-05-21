@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Normality back (Redynscullator)
 0: Double Params Flag
 1: Total number of elements
-127: Main 0
-127: Main 1
+13: Main 0
+38: Main 1
 0: Main 2
-127: Main 3
-0: Main 4
-0: Main 5
+0: Main 3
+25: Main 4
+25: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Normality back (Redynscullator)
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   1.9685: Boost/Cut
 Band 2
    86: CF
    7: Boost/Cut

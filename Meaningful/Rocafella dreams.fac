@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Rocafella dreams
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
-0: Main 1
+13: Main 0
+25: Main 1
 0: Main 2
-64: Main 3
-64: Main 4
-51: Main 5
+0: Main 3
+127: Main 4
+127: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,15 +31,15 @@ Rocafella dreams
 1: On/Off Flag
 Band 1
    62.5: CF
-   4.01575: Boost/Cut
+   10: Boost/Cut
 Band 2
-   157: CF
+   101.62: CF
    -6: Boost/Cut
 Band 3
-   158: CF
+   180.78: CF
    -6: Boost/Cut
 Band 4
-   540: CF
+   416.5: CF
    0: Boost/Cut
 Band 5
    1000: CF
@@ -48,13 +48,13 @@ Band 6
    1852: CF
    6: Boost/Cut
 Band 7
-   1862: CF
+   3381.99: CF
    6: Boost/Cut
 Band 8
-   6350: CF
+   4021.2: CF
    -3: Boost/Cut
 Band 9
-   11758: CF
+   9059: CF
    3: Boost/Cut
 Band 10
    16000: CF

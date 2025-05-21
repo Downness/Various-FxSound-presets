@@ -3,10 +3,10 @@ CLASS1 : Effect Type
 Working through life (agustyyaryyanyya dy drosyya)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
+0: Main 0
 64: Main 1
 0: Main 2
-64: Main 3
+0: Main 3
 64: Main 4
 64: Main 5
 0: Element Number
@@ -33,29 +33,29 @@ Band 1
    62.5: CF
    5.03937: Boost/Cut
 Band 2
-   157: CF
-   9: Boost/Cut
+   86: CF
+   6: Boost/Cut
 Band 3
-   292: CF
-   9: Boost/Cut
+   158: CF
+   6: Boost/Cut
 Band 4
    540: CF
-   9: Boost/Cut
+   6: Boost/Cut
 Band 5
-   628.21: CF
+   995.41: CF
    -5: Boost/Cut
 Band 6
-   1439.42: CF
+   1414.16: CF
    0: Boost/Cut
 Band 7
-   2645.5: CF
+   2551.48: CF
    0: Boost/Cut
 Band 8
-   4050.31: CF
+   6350: CF
    -5: Boost/Cut
 Band 9
-   10624.4: CF
-   12: Boost/Cut
+   6360: CF
+   6: Boost/Cut
 Band 10
-   13884: CF
-   12: Boost/Cut
+   16000: CF
+   6: Boost/Cut

@@ -3,11 +3,11 @@ CLASS1 : Effect Type
 Work (agrivious)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
+0: Main 0
 64: Main 1
 0: Main 2
-64: Main 3
-64: Main 4
+0: Main 3
+127: Main 4
 64: Main 5
 0: Element Number
    0: Param 0
@@ -33,7 +33,7 @@ Band 1
    62.5: CF
    5.03937: Boost/Cut
 Band 2
-   157: CF
+   155.58: CF
    9: Boost/Cut
 Band 3
    292: CF

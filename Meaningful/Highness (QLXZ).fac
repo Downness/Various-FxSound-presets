@@ -3,11 +3,11 @@ CLASS1 : Effect Type
 Highness (QLXZ)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-38: Main 1
+13: Main 0
+25: Main 1
 0: Main 2
-64: Main 3
-127: Main 4
+0: Main 3
+25: Main 4
 0: Main 5
 0: Element Number
    0: Param 0

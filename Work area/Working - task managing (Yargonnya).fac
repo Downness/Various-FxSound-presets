@@ -3,8 +3,8 @@ CLASS1 : Effect Type
 Working - task managing (Yargonnya)
 0: Double Params Flag
 1: Total number of elements
-13: Main 0
-64: Main 1
+0: Main 0
+0: Main 1
 0: Main 2
 0: Main 3
 127: Main 4
@@ -33,22 +33,22 @@ Band 1
    62.5: CF
    5.03937: Boost/Cut
 Band 2
-   157: CF
+   142.8: CF
    8: Boost/Cut
 Band 3
-   292: CF
+   188.82: CF
    0: Boost/Cut
 Band 4
-   540: CF
+   480.72: CF
    8: Boost/Cut
 Band 5
-   765.91: CF
+   637.39: CF
    0: Boost/Cut
 Band 6
-   1195.24: CF
+   1666.76: CF
    -9: Boost/Cut
 Band 7
-   2645.5: CF
+   2175.4: CF
    0: Boost/Cut
 Band 8
    3439: CF
@@ -57,5 +57,5 @@ Band 9
    8897.06: CF
    6: Boost/Cut
 Band 10
-   15069: CF
+   16000: CF
    9: Boost/Cut

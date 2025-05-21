@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Baby fun (Yandoslarya)
 0: Double Params Flag
 1: Total number of elements
-76: Main 0
-76: Main 1
+64: Main 0
+25: Main 1
 0: Main 2
 0: Main 3
-64: Main 4
-0: Main 5
+25: Main 4
+25: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,12 +31,12 @@ Baby fun (Yandoslarya)
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   1.9685: Boost/Cut
 Band 2
    157: CF
    12: Boost/Cut
 Band 3
-   158: CF
+   187.48: CF
    0: Boost/Cut
 Band 4
    540: CF
@@ -45,17 +45,17 @@ Band 5
    541: CF
    -12: Boost/Cut
 Band 6
-   1010: CF
+   1725.7: CF
    0: Boost/Cut
 Band 7
-   1862: CF
+   3178.28: CF
    0: Boost/Cut
 Band 8
-   3439: CF
+   5942.46: CF
    0: Boost/Cut
 Band 9
-   6360: CF
+   10786.4: CF
    0: Boost/Cut
 Band 10
-   11768: CF
+   15280.6: CF
    0: Boost/Cut

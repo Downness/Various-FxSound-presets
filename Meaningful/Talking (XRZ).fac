@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Talking (XRZ)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+13: Main 0
+38: Main 1
 0: Main 2
-64: Main 3
-64: Main 4
-0: Main 5
+0: Main 3
+25: Main 4
+25: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Talking (XRZ)
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   1.9685: Boost/Cut
 Band 2
    157: CF
    6: Boost/Cut

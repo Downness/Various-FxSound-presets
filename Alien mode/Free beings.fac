@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Free beings
 0: Double Params Flag
 1: Total number of elements
-64: Main 0
+0: Main 0
 0: Main 1
 0: Main 2
-64: Main 3
-102: Main 4
-102: Main 5
+0: Main 3
+127: Main 4
+0: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Free beings
 1: On/Off Flag
 Band 1
    62.5: CF
-   8.0315: Boost/Cut
+   0: Boost/Cut
 Band 2
    157: CF
    7: Boost/Cut

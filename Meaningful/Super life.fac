@@ -4,11 +4,11 @@ Super life
 0: Double Params Flag
 1: Total number of elements
 0: Main 0
-64: Main 1
+0: Main 1
 0: Main 2
 0: Main 3
-0: Main 4
-0: Main 5
+127: Main 4
+64: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,16 +31,16 @@ Super life
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   5.03937: Boost/Cut
 Band 2
-   86: CF
-   10: Boost/Cut
+   157: CF
+   6: Boost/Cut
 Band 3
-   158: CF
-   10: Boost/Cut
+   292: CF
+   6: Boost/Cut
 Band 4
    540: CF
-   10: Boost/Cut
+   6: Boost/Cut
 Band 5
    1000: CF
    0: Boost/Cut

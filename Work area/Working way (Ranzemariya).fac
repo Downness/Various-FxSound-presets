@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Working way (Ranzemariya)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
-64: Main 1
+0: Main 0
+0: Main 1
 0: Main 2
-64: Main 3
+0: Main 3
 64: Main 4
-127: Main 5
+64: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Working way (Ranzemariya)
 1: On/Off Flag
 Band 1
    62.5: CF
-   10: Boost/Cut
+   5.03937: Boost/Cut
 Band 2
    157: CF
    9: Boost/Cut

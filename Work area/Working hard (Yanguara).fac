@@ -3,10 +3,10 @@ CLASS1 : Effect Type
 Working hard (Yanguara)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
-64: Main 1
+0: Main 0
+0: Main 1
 0: Main 2
-64: Main 3
+0: Main 3
 64: Main 4
 64: Main 5
 0: Element Number
@@ -34,28 +34,28 @@ Band 1
    5.03937: Boost/Cut
 Band 2
    86: CF
-   7: Boost/Cut
+   4: Boost/Cut
 Band 3
    158: CF
-   9: Boost/Cut
+   6: Boost/Cut
 Band 4
    293: CF
-   0: Boost/Cut
+   -3: Boost/Cut
 Band 5
    541: CF
-   7: Boost/Cut
+   4: Boost/Cut
 Band 6
    1010: CF
-   10: Boost/Cut
+   7: Boost/Cut
 Band 7
    1862: CF
-   7: Boost/Cut
+   4: Boost/Cut
 Band 8
-   3613.66: CF
-   6: Boost/Cut
+   3439: CF
+   3: Boost/Cut
 Band 9
    6360: CF
-   3: Boost/Cut
+   0: Boost/Cut
 Band 10
    11768: CF
    -6: Boost/Cut
