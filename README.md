@@ -3,32 +3,39 @@ Various presets for the FxSound equalizer have a point to set people free or ena
 
 Various presets include:
 
-* Alien mode
+* Alien mode presets for the FxSound Equalizer
 	> we can find associations on lives of different beings
-* American
+
+* American presets for the FxSound Equalizer
 	> serious ones, as the ones that give association on American jokes, also about their superheroes
-* Beings - Colorful
+
+* Beings - Colorful presets for the FxSound Equalizer
 	> giving the color for underworld beings that have knowledge about everything	
-* Chinese
+
+* Chinese presets for the FxSound Equalizer
 	> representing idea of a "life steps" - named "staza"
-* Life (Living)
+
+* Life (Living) presets for the FxSound Equalizer
 	> giving idea about life, also questioning them
-* Meaningful
+
+* Meaningful presets for the FxSound Equalizer
 	> about different life ideas, happiness, about leisure, life, learning, love, being saint, truth
-* Sound Quality Presets
+
+* Sound Quality Presets for the FxSound Equalizer
 	> Bass, Blues, Music, other sound presets
-* Presets with life help as are underworld codes
+
+* Presets for the FxSound Equalizer with life help as are underworld codes
 	> knowledge association
-* Work area
+* Work area presets for the FxSound Equalizer
 	> divided work associations for different work motivations (work environments) - from almost leisure, also about work on holidays, to the hardest ones
 
 > GitHub link: https://github.com/Downness/Various-FxSound-presets
 
 > Download link: https://github.com/Downness/Various-FxSound-presets/archive/refs/tags/VariousPresets_for_FxSound_EQ.zip
 
-Various presets include:
+Various FxSound presets include folders:
 
-> Alien mode:
+> Alien mode
 
 Being - development.fac                                            
 Being - primary.fac                                                
