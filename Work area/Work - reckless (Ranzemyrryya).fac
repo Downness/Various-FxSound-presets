@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Work - reckless (Ranzemyrryya)
+Work - Reckless (Ranzemyrryya)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+38: Main 0
+64: Main 1
 0: Main 2
-0: Main 3
-64: Main 4
+38: Main 3
+127: Main 4
 127: Main 5
 0: Element Number
    0: Param 0

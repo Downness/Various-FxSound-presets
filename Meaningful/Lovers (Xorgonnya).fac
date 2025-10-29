@@ -4,11 +4,11 @@ Lovers (Xorgonnya)
 0: Double Params Flag
 1: Total number of elements
 0: Main 0
-64: Main 1
+38: Main 1
 0: Main 2
 0: Main 3
-127: Main 4
-64: Main 5
+102: Main 4
+114: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Lovers (Xorgonnya)
 1: On/Off Flag
 Band 1
    62.5: CF
-   5.03937: Boost/Cut
+   8.97638: Boost/Cut
 Band 2
-   157: CF
+   86: CF
    -12: Boost/Cut
 Band 3
-   292: CF
+   158: CF
    -9: Boost/Cut
 Band 4
    540: CF
    -12: Boost/Cut
 Band 5
-   1000: CF
+   541: CF
    -6: Boost/Cut
 Band 6
    1852: CF
    -12: Boost/Cut
 Band 7
-   3429: CF
+   2551.48: CF
    3: Boost/Cut
 Band 8
-   6350: CF
+   4836.28: CF
    -12: Boost/Cut
 Band 9
-   11758: CF
+   6360: CF
    9: Boost/Cut
 Band 10
-   16000: CF
+   11768: CF
    -12: Boost/Cut

@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Sound - Big Woofer, Sub Woofer
 0: Double Params Flag
 1: Total number of elements
-127: Main 0
-127: Main 1
+114: Main 0
+114: Main 1
 0: Main 2
-127: Main 3
-127: Main 4
-127: Main 5
+114: Main 3
+114: Main 4
+114: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Sound - Big Woofer, Sub Woofer
 1: On/Off Flag
 Band 1
    62.5: CF
-   10: Boost/Cut
+   8.97638: Boost/Cut
 Band 2
    157: CF
-   0: Boost/Cut
+   -3: Boost/Cut
 Band 3
-   289.32: CF
-   3: Boost/Cut
+   292: CF
+   0: Boost/Cut
 Band 4
-   293: CF
-   -6: Boost/Cut
+   540: CF
+   -9: Boost/Cut
 Band 5
    1000: CF
-   3: Boost/Cut
+   0: Boost/Cut
 Band 6
-   1852: CF
-   6: Boost/Cut
+   1010: CF
+   3: Boost/Cut
 Band 7
    1862: CF
-   3: Boost/Cut
-Band 8
-   3439: CF
-   -3: Boost/Cut
-Band 9
-   11758: CF
    0: Boost/Cut
+Band 8
+   4021.2: CF
+   -6: Boost/Cut
+Band 9
+   7331.64: CF
+   -3: Boost/Cut
 Band 10
-   16000: CF
-   3: Boost/Cut
+   11768: CF
+   0: Boost/Cut

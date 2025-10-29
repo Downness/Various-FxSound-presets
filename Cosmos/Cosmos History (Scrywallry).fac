@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Horror (DRTZ)
+Cosmos History (Scrywallry)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-76: Main 1
+13: Main 0
+64: Main 1
 0: Main 2
-102: Main 3
-25: Main 4
+89: Main 3
+64: Main 4
 127: Main 5
 0: Element Number
    0: Param 0
@@ -33,29 +33,29 @@ Band 1
    62.5: CF
    10: Boost/Cut
 Band 2
-   157: CF
-   6: Boost/Cut
+   154.16: CF
+   -8: Boost/Cut
 Band 3
    292: CF
-   6: Boost/Cut
+   8: Boost/Cut
 Band 4
-   540: CF
-   3: Boost/Cut
+   411.56: CF
+   -8: Boost/Cut
 Band 5
-   1000: CF
-   0: Boost/Cut
+   619.03: CF
+   2: Boost/Cut
 Band 6
-   1852: CF
-   -3: Boost/Cut
+   1683.6: CF
+   2: Boost/Cut
 Band 7
-   3429: CF
-   -3: Boost/Cut
+   3084.26: CF
+   -6: Boost/Cut
 Band 8
-   6350: CF
-   -6: Boost/Cut
+   5767.8: CF
+   0: Boost/Cut
 Band 9
-   11758: CF
-   -6: Boost/Cut
+   9166.96: CF
+   5: Boost/Cut
 Band 10
-   16000: CF
-   -6: Boost/Cut
+   15026.6: CF
+   5: Boost/Cut

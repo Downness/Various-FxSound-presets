@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Love about (assfedazzya)
 0: Double Params Flag
 1: Total number of elements
-38: Main 0
+13: Main 0
 25: Main 1
 0: Main 2
-38: Main 3
-25: Main 4
-0: Main 5
+0: Main 3
+102: Main 4
+127: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,15 +31,15 @@ Love about (assfedazzya)
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   10: Boost/Cut
 Band 2
-   142.09: CF
+   157: CF
    8: Boost/Cut
 Band 3
-   265.2: CF
+   292: CF
    7: Boost/Cut
 Band 4
-   490.6: CF
+   411.56: CF
    5: Boost/Cut
 Band 5
    912.79: CF
@@ -51,11 +51,11 @@ Band 7
    3115.6: CF
    4: Boost/Cut
 Band 8
-   5826.02: CF
+   6350: CF
    -10: Boost/Cut
 Band 9
-   10570.4: CF
+   11758: CF
    -10: Boost/Cut
 Band 10
-   15111.3: CF
+   16000: CF
    12: Boost/Cut

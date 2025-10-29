@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-Life with begging (Yroshmaliya)
+Life - Fixing Extra Life (Degorgeniya)
 0: Double Params Flag
 1: Total number of elements
 13: Main 0
-0: Main 1
+76: Main 1
 0: Main 2
-0: Main 3
-25: Main 4
-0: Main 5
+102: Main 3
+64: Main 4
+25: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -22,7 +22,7 @@ Life with begging (Yroshmaliya)
 0: Number of Application Dependent Strings
 1: Integer[0]
 1: Integer[1]
-1: Integer[2]
+0: Integer[2]
 1: Integer[3]
 1: Integer[4]
 0: Integer[5]
@@ -31,31 +31,31 @@ Life with begging (Yroshmaliya)
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   1.9685: Boost/Cut
 Band 2
-   157: CF
-   6: Boost/Cut
+   141.38: CF
+   5: Boost/Cut
 Band 3
-   292: CF
-   6: Boost/Cut
+   265.2: CF
+   5: Boost/Cut
 Band 4
-   418.97: CF
-   -3: Boost/Cut
+   485.66: CF
+   5: Boost/Cut
 Band 5
-   894.43: CF
-   0: Boost/Cut
+   641.98: CF
+   -2: Boost/Cut
 Band 6
-   1161.56: CF
-   -6: Boost/Cut
+   1144.72: CF
+   1: Boost/Cut
 Band 7
-   2112.72: CF
-   -6: Boost/Cut
+   2598.49: CF
+   -2: Boost/Cut
 Band 8
-   6350: CF
-   6: Boost/Cut
+   4894.5: CF
+   1: Boost/Cut
 Band 9
-   11758: CF
-   6: Boost/Cut
+   7493.58: CF
+   -2: Boost/Cut
 Band 10
-   12572.1: CF
-   -6: Boost/Cut
+   12614.4: CF
+   1: Boost/Cut

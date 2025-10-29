@@ -3,10 +3,10 @@ CLASS1 : Effect Type
 Work - hardest (Oscarnotalliyana)
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-0: Main 1
+38: Main 0
+76: Main 1
 0: Main 2
-0: Main 3
+102: Main 3
 127: Main 4
 127: Main 5
 0: Element Number
@@ -33,29 +33,29 @@ Band 1
    62.5: CF
    10: Boost/Cut
 Band 2
-   86: CF
+   120.79: CF
    -3: Boost/Cut
 Band 3
-   158: CF
+   222.32: CF
    -3: Boost/Cut
 Band 4
-   493.07: CF
+   293: CF
    0: Boost/Cut
 Band 5
-   770.5: CF
+   637.39: CF
    3: Boost/Cut
 Band 6
    1414.16: CF
    3: Boost/Cut
 Band 7
-   2676.84: CF
+   2222.41: CF
    3: Boost/Cut
 Band 8
-   3904.76: CF
+   4836.28: CF
    -3: Boost/Cut
 Band 9
-   10678.4: CF
+   7547.56: CF
    3: Boost/Cut
 Band 10
-   16000: CF
+   13841.7: CF
    9: Boost/Cut

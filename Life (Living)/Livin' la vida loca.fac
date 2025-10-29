@@ -3,12 +3,12 @@ CLASS1 : Effect Type
 Livin' la vida loca
 0: Double Params Flag
 1: Total number of elements
-0: Main 0
-64: Main 1
+13: Main 0
+38: Main 1
 0: Main 2
 0: Main 3
 64: Main 4
-64: Main 5
+127: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Livin' la vida loca
 1: On/Off Flag
 Band 1
    62.5: CF
-   5.03937: Boost/Cut
+   10: Boost/Cut
 Band 2
    157: CF
    6: Boost/Cut
@@ -51,11 +51,11 @@ Band 7
    3429: CF
    -3: Boost/Cut
 Band 8
-   6350: CF
+   3439: CF
    3: Boost/Cut
 Band 9
-   11758: CF
+   6360: CF
    9: Boost/Cut
 Band 10
-   16000: CF
+   11768: CF
    0: Boost/Cut

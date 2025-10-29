@@ -8,7 +8,7 @@ Peace by saint life (regallme dy kallybryana)
 0: Main 2
 0: Main 3
 64: Main 4
-0: Main 5
+127: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,7 +31,7 @@ Peace by saint life (regallme dy kallybryana)
 1: On/Off Flag
 Band 1
    62.5: CF
-   0: Boost/Cut
+   10: Boost/Cut
 Band 2
    86: CF
    0: Boost/Cut
