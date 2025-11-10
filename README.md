@@ -1,3 +1,5 @@
+* Newest presets are skipped in the preview file...
+-----------------------------------------------------------------
 
 Various presets for the FxSound equalizer have a point to set people free or enable them hard working with a combination natural - cosmos models of living, but there you can find and those for fun... Just import presets into the equalizer and enjoy!
 
