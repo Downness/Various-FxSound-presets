@@ -1,13 +1,13 @@
 CLASS1 : Effect Type
 9: Version
-Being - Tree Of Cheddar (Far Away) (NEG)
+Being - Ogrand (NEG)
 0: Double Params Flag
 1: Total number of elements
-51: Main 0
-38: Main 1
+127: Main 0
+76: Main 1
 0: Main 2
-102: Main 3
-51: Main 4
+114: Main 3
+114: Main 4
 114: Main 5
 0: Element Number
    0: Param 0
@@ -33,29 +33,29 @@ Band 1
    62.5: CF
    8.97638: Boost/Cut
 Band 2
-   142.09: CF
-   -6: Boost/Cut
+   140.67: CF
+   -12: Boost/Cut
 Band 3
-   184.8: CF
-   0: Boost/Cut
+   223.66: CF
+   -9: Boost/Cut
 Band 4
-   414.03: CF
-   0: Boost/Cut
+   490.6: CF
+   -3: Boost/Cut
 Band 5
-   619.03: CF
-   0: Boost/Cut
+   765.91: CF
+   -12: Boost/Cut
 Band 6
-   1666.76: CF
+   1178.4: CF
    0: Boost/Cut
 Band 7
-   2206.74: CF
-   -3: Boost/Cut
+   2175.4: CF
+   0: Boost/Cut
 Band 8
-   3439: CF
-   -3: Boost/Cut
+   4894.5: CF
+   -9: Boost/Cut
 Band 9
-   10840.3: CF
+   8951.04: CF
    -3: Boost/Cut
 Band 10
    16000: CF
-   -7: Boost/Cut
+   -9: Boost/Cut
