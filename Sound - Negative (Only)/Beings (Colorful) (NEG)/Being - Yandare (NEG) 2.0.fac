@@ -1,14 +1,14 @@
 CLASS1 : Effect Type
 9: Version
-Being - Tree Of Cheddar (Far Away) (NEG)
+Being - Yandare (NEG) 2.0
 0: Double Params Flag
 1: Total number of elements
-102: Main 0
-76: Main 1
+76: Main 0
+64: Main 1
 0: Main 2
-89: Main 3
-114: Main 4
-114: Main 5
+102: Main 3
+89: Main 4
+102: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,31 +31,31 @@ Being - Tree Of Cheddar (Far Away) (NEG)
 1: On/Off Flag
 Band 1
    62.5: CF
-   8.97638: Boost/Cut
+   8.0315: Boost/Cut
 Band 2
-   157: CF
+   86: CF
    -12: Boost/Cut
 Band 3
-   184.8: CF
-   0: Boost/Cut
+   292: CF
+   -12: Boost/Cut
 Band 4
-   414.03: CF
-   0: Boost/Cut
-Band 5
-   619.03: CF
-   0: Boost/Cut
-Band 6
-   1666.76: CF
-   0: Boost/Cut
-Band 7
-   2206.74: CF
+   411.56: CF
    -6: Boost/Cut
+Band 5
+   761.32: CF
+   -6: Boost/Cut
+Band 6
+   1422.58: CF
+   -6: Boost/Cut
+Band 7
+   1862: CF
+   -12: Boost/Cut
 Band 8
-   3439: CF
+   4865.39: CF
    -6: Boost/Cut
 Band 9
-   10840.3: CF
+   8951.04: CF
    -6: Boost/Cut
 Band 10
    16000: CF
-   -12: Boost/Cut
+   -3: Boost/Cut
