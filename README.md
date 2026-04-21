@@ -1,13 +1,13 @@
-
-* Tutorial
 -----------------------------------------------------------------
+* Tutorial
 
 Download from Releases link latest zip file: https://github.com/Downness/Various-FxSound-presets/releases
 
 If you are listening on speakers or headphones with their own 'vibe' of the sound, please enable: "Windows Sonic for Headphones" in settings under: "Spatial Sound", in "Sound Output"... On Windows 11 you have that options in right corner of the Taskbar...
 
-* Newest presets are skipped in the preview file...
 -----------------------------------------------------------------
+* Newest presets are skipped in the preview file...
+
 
 Various presets for the FxSound equalizer have a point to set people free or enable them hard working with a combination natural - cosmos models of living, but there you can find and those for fun... Just import presets into the equalizer and enjoy!
 
