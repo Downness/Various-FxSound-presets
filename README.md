@@ -4,6 +4,9 @@
 Download from Releases link latest zip file: https://github.com/Downness/Various-FxSound-presets/releases
 
 If you are listening on speakers or headphones with their own 'vibe' of the sound, please enable: "Windows Sonic for Headphones" in settings under: "Spatial Sound", in "Sound Output"... On Windows 11 you have that options in right corner of the Taskbar...
+-----------------------------------------------------------------
+* Tips:
+- "Lenovo ThinkPlus" HeadPhones are of high quality and have 2 modes: "Stream mode" (closed system ones) and "Music mode" (open system ones)... Some presets are better heard and understood in closed system mode (so called Stream mode) and some as is Cosmos History is better heard and understood in open system (or so called "Music mode")...
 
 -----------------------------------------------------------------
 * Newest presets are skipped in the preview file...
