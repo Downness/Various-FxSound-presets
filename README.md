@@ -1,6 +1,9 @@
 -----------------------------------------------------------------
 * Tutorial
 
+> This presets were made for the FxSound Equalizer but the oldest version these can be applied is vesion 1.1.36.0.000. Here is the link for downloading that FxSound equalizer:
+https://github.com/fxsound2/fxsound-app/releases/tag/v1.1.36.0
+
 > Download from Releases link latest zip file: https://github.com/Downness/Various-FxSound-presets/releases
 
 > GitHub link: https://github.com/Downness/Various-FxSound-presets
