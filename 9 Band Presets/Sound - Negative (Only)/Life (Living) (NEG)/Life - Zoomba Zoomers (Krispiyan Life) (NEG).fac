@@ -31,31 +31,31 @@ Life - Zoomba Zoomers (Krispiyan Life) (NEG)
 1: On/Off Flag
 Band 1
    62.5: CF
-   7.00787: Boost/Cut
+   -3: Boost/Cut
 Band 2
-   86: CF
+   115.734: CF
    0: Boost/Cut
 Band 3
-   158: CF
+   214.311: CF
    0: Boost/Cut
 Band 4
-   293: CF
+   396.85: CF
    0: Boost/Cut
 Band 5
-   632.8: CF
+   734.867: CF
    -12: Boost/Cut
 Band 6
-   1178.4: CF
+   1360.79: CF
    -12: Boost/Cut
 Band 7
-   2175.4: CF
+   2519.84: CF
    -12: Boost/Cut
 Band 8
-   3439: CF
+   4666.12: CF
    -6: Boost/Cut
 Band 9
-   10678.4: CF
+   8640.48: CF
    -3: Boost/Cut
 Band 10
-   15238.2: CF
+   16000: CF
    -3: Boost/Cut

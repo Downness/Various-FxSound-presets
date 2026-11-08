@@ -31,31 +31,31 @@ Life - Zoomba Zoomers (Prisoner Life) (NEG)
 1: On/Off Flag
 Band 1
    62.5: CF
-   8.97638: Boost/Cut
+   0: Boost/Cut
 Band 2
-   155.58: CF
+   115.734: CF
    -9: Boost/Cut
 Band 3
-   158: CF
+   214.311: CF
    -12: Boost/Cut
 Band 4
-   540: CF
+   396.85: CF
    -1: Boost/Cut
 Band 5
-   619.03: CF
+   734.867: CF
    -1: Boost/Cut
 Band 6
-   1169.98: CF
+   1360.79: CF
    -8: Boost/Cut
 Band 7
-   1862: CF
+   2519.84: CF
    -6: Boost/Cut
 Band 8
-   3962.98: CF
+   4666.12: CF
    -9: Boost/Cut
 Band 9
-   7331.64: CF
+   8640.48: CF
    -9: Boost/Cut
 Band 10
-   11768: CF
+   16000: CF
    -11: Boost/Cut
