@@ -6,9 +6,9 @@ Science - Quanzyllyumarrya (Understanding And Not) (NEG)
 25: Main 0
 76: Main 1
 0: Main 2
-114: Main 3
-114: Main 4
-114: Main 5
+102: Main 3
+64: Main 4
+64: Main 5
 0: Element Number
    0: Param 0
    0: Param 1
@@ -31,10 +31,10 @@ Science - Quanzyllyumarrya (Understanding And Not) (NEG)
 1: On/Off Flag
 Band 1
    62.5: CF
-   8.97638: Boost/Cut
+   -4: Boost/Cut
 Band 2
    86: CF
-   -12: Boost/Cut
+   -4: Boost/Cut
 Band 3
    158: CF
    0: Boost/Cut
